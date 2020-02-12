@@ -16,3 +16,5 @@
 
 * PropTypes : props로 보낸 데이터 타입 체크 
   <br> 모듈설치 (npm i prop-types)
+
+## State
