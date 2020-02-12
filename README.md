@@ -15,4 +15,4 @@
   Props를 통해 컴포넌트에서 컴포넌트로, parent컴포넌트에서 children 컴포넌트로 정보를 보냄 
   <br>
   PropTypes : props로 보낸 데이터 타입 체크 
-   모듈설치 (npm i prop-types)
+  <br> 모듈설치 (npm i prop-types)
