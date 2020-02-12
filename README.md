@@ -18,3 +18,15 @@
   <br> 모듈설치 (npm i prop-types)
 
 ## State
+
+* state는 Object
+
+* dynamic한 data를 처리할 때 사용하는 것이 State이며 Props에서는 처리 X
+
+* Function Component : 함수이고 리턴값이 있으며 screen에 표시됨
+* Class Component: react compont로부터  extend되고 screen에 표시됨
+
+* state는 직접 바꿀 수 없고 setState를 통해 변경해야한다 (setState를 사용하지 않으면 새 State와 함께 render 함수가 호출되지 않음)
+* setState를 사용하면 리액트는 새로운 state값과 Rerendering한다
+
+* Componet LifeCycle (https://reactjs.org/docs/state-and-lifecycle.html)
