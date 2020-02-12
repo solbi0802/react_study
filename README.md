@@ -1,7 +1,7 @@
 # ReactStudy
 * Nomadcoder -'ReactJS로 웹 서비스 만들기'
 
-## 2 JSX & Props
+## JSX & Props
 
   Component는 HTML을 반환하는 함수이다.
   
