@@ -28,5 +28,6 @@
 
 * state는 직접 바꿀 수 없고 setState를 통해 변경해야한다 (setState를 사용하지 않으면 새 State와 함께 render 함수가 호출되지 않음)
 * setState를 사용하면 리액트는 새로운 state값과 Rerendering한다
+* setState를 사용할 때 state 안에 반드시 default값들을 선언할 필요 X
 
 * Componet LifeCycle (https://reactjs.org/docs/state-and-lifecycle.html)
