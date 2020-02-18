@@ -1,4 +1,4 @@
-# React Study
+# react Study
 * Nomadcoder -'ReactJS로 웹 서비스 만들기'
 
 ## JSX & Props
